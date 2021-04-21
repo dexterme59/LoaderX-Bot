@@ -1,0 +1,11 @@
+---
+application:
+  name: "loaderx-bot"
+  project: "random-project-69420"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-loaderx-bot"
+  routes:
+  - application_name: "loaderx-bot"
+    paths:
+    - "/*"
